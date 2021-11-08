@@ -4,8 +4,6 @@ char2=[]
 char3=[]
 count=0
 ctrl=0
-ctrl2=0
-count2=0
 life=10
 for i in word:
     if i == " ":
