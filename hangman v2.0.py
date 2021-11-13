@@ -1,3 +1,4 @@
+#v2.0
 from os import system
 special_chars=r'0 1 2 3 4 5 6 7 8 9 ! " # $ % & ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~ '
 special_chars=list(special_chars.split(" "))
