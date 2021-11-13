@@ -1,3 +1,4 @@
+#v1.0
 word=(input("Kelimeyi giriniz: "))
 char=[]
 char2=[]
